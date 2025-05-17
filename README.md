@@ -1,29 +1,22 @@
-<h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
-<h3 align="center">Java Backend Developer | AI Researcher | IoT Enthusiast from India 🇮🇳</h3>
+<h1 align="center">🚀 Mayank Sharma</h1>
+<h3 align="center">Java Backend Developer | API Craftsman | AI & IoT Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Backend+Developer;AI+Researcher;Node.js+%7C+FastAPI+%7C+Java+Developer;Tech+Explorer+%7C+Always+Learning" alt="Typing SVG" />
+  <a href="mailto:mayankaryan309@gmail.com"><img src="https://img.shields.io/badge/Gmail-Red?style=flat-square&logo=gmail&logoColor=white&label=Email"></a>
+  <a href="https://www.linkedin.com/in/mayank-sharma15/"><img src="https://img.shields.io/badge/LinkedIn-MayankSharma-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/Sharma-Mayank15"><img src="https://img.shields.io/badge/GitHub-Sharma--Mayank15-black?style=flat-square&logo=github"></a>
+  <a href="https://leetcode.com/u/Mayank_1511/"><img src="https://img.shields.io/badge/LeetCode-Mayank-orange?style=flat-square&logo=leetcode"></a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 Who Am I?
 
-- 🔭 Currently building scalable backend systems using **Java, Node.js, FastAPI**
-- 🧠 Passionate about **AI/ML**, **IoT**, and **Secure API Development**
-- 🌱 Learning **Advanced Spring Boot**, **Cloud Deployment**, and **System Design**
-- 💬 Ask me about `Java`, `Node.js`, `SQL`, `REST APIs`, or `FastAPI`
-- 📫 Reach me at **mayankaryan309@gmail.com**
-- 📄 [View My Resume (PDF)](sandbox:/mnt/data/Mayank%20Sharma_7528857335.pdf)
-
-
-
----
-
-### 🔗 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MayankSharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mayank-sharma-359807230//)
-[![GitHub](https://img.shields.io/badge/GitHub-Oliver--Twist15-black?style=for-the-badge&logo=github)](https://github.com/Oliver-Twist15)
+- 🎓 Final-year B.E. CSE student at **Chandigarh University**
+- 💻 Backend Developer specializing in **RESTful APIs**, **JWT Auth**, and **scalable systems**
+- 🧠 Tech enthusiast diving into **AI**, **IoT**, and **system design**
+- 🌱 Currently mastering **Spring Boot**, **Microservices**, and **Cloud deployment**
+- 📫 Mail me anytime at: **mayankaryan309@gmail.com**
 
 ---
 
@@ -57,47 +50,68 @@
 
 </p>
 
----
-
-### 📚 Projects
-
-- ⚙️ [**End-to-End Order Processing System**](https://github.com/Oliver-Twist15/order-management-api)  
-  *Node.js, Express.js, MySQL, Docker*  
-  Scalable RESTful backend for inventory/order management; 5,000+ req/min supported.
-
-- 🤖 [**GPT-based Conversational AI**](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003561651-11/unlocking-power-generative-pre-training-gpt-3-based-conversational-ai-framework-ishdeep-singla-mayank-sharma-shivam-dubey-aditya-ayush-tyagi-rahul-tiwari)  
-  *HTML, CSS, JavaScript, Python*  
-  Chatbot for answering questions, scheduling tasks, and managing smart devices.
-
-- 🔐 [**Backend API for User Authentication and Management**](https://github.com/Oliver-Twist15/Backend-API-for-User-Authentication-and-Management.git)  
-  *FastAPI, PostgreSQL, Docker*  
-  Secure authentication with JWT, role-based access & Dockerized deployment.
 
 ---
 
-### 📜 Certifications
+## 🛠️ Featured Projects
 
-- 🎓 NPTEL – **Gold Medal** in Internet of Things (IIT Kharagpur)  
-- ✅ Coursera – *Java Application Code, Data Structures, Java Language*  
-- 📚 Infosys Springboard – *HTML, CSS3, JavaScript*
+### ✅ [End-to-End Order Processing System](https://github.com/Oliver-Twist15/order-management-api)
+🔹 **Node.js**, **Express**, **MySQL**, **Docker**  
+Designed to process 5000+ orders/min with scalable inventory & tracking features.
 
 ---
 
-### 📈 GitHub Stats
+### ✅ [GPT-Powered Conversational System](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003561651-11/unlocking-power-generative-pre-training-gpt-3-based-conversational-ai-framework-ishdeep-singla-mayank-sharma-shivam-dubey-aditya-ayush-tyagi-rahul-tiwari)
+🔹 *Published Research (ICCMST 2024)*  
+Built a smart assistant using **Python**, **HTML/CSS**, and **JavaScript** with dynamic UI & task automation.
+
+---
+
+### ✅ [Backend API for User Authentication and Management](https://github.com/Oliver-Twist15/Backend-API-for-User-Authentication-and-Management)
+🔹 **FastAPI**, **PostgreSQL**, **JWT**, **Docker**  
+Modular & secure user management system with token-based access and containerized deployment.
+
+---
+
+### ✅ Advanced Aquatic Alert System: An Edge Hardware Solution
+🔹 **Embedded Sensors**, **Microcontrollers**, **Data-Driven Prediction**  
+Designed a smart alert system for farmers to **monitor and regulate water levels** during crop cycles.  
+This solution predicts optimal irrigation needs and generates **real-time aquatic weather alerts**, maximizing yield through **resource-aware decision-making**.
+
+Modular & secure user management system with token-based access and containerized deployment.
+
+---
+
+## 📚 Certifications
+
+- 🥇 **NPTEL Gold Medal** – Internet of Things (IIT Kharagpur)
+- 📘 **Coursera** – Java Application Code, DSA, Java Language
+- 🧾 **Infosys Springboard** – HTML, CSS3, JavaScript
+
+---
+
+## 🏆 Highlights
+
+- 📜 Published AI Research Paper in an International Journal  
+- 🧠 Recognized in tech fests & academic hackathons  
+- 🎯 Passionate about delivering backend systems that scale, secure, and serve
+
+---
+
+## 📄 Here’s my resume:
+
+👉 *[Add your PDF resume link here]*
+
+---
+
+### 💬 Let’s Connect
+
+> “I believe in clean code, thoughtful APIs, and building systems that *just work*.”  
+> If you’re looking for a dependable backend developer with research exposure and real-world API work — **let’s talk!**
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oliver-Twist15&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharma-Mayank15&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma-Mayank15&layout=compact&theme=radical" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-Twist15&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📞 Contact Me
-
-- 📧 **Email:** mayankaryan309@gmail.com  
-- 📱 **Phone:** +91 7528857335  
-- 🌐 **LinkedIn:** [linkedin.com/in/mayank-sharma15](https://www.linkedin.com/in/mayank-sharma-359807230/)
-
----
