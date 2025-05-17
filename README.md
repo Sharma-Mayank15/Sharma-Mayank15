@@ -78,8 +78,6 @@ Modular & secure user management system with token-based access and containerize
 Designed a smart alert system for farmers to **monitor and regulate water levels** during crop cycles.  
 This solution predicts optimal irrigation needs and generates **real-time aquatic weather alerts**, maximizing yield through **resource-aware decision-making**.
 
-Modular & secure user management system with token-based access and containerized deployment.
-
 ---
 
 ## 📚 Certifications
