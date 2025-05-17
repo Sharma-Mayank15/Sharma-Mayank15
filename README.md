@@ -71,8 +71,15 @@ Built a smart assistant using **Python**, **HTML/CSS**, and **JavaScript** with 
 🔹 **FastAPI**, **PostgreSQL**, **JWT**, **Docker**  
 Modular & secure user management system with token-based access and containerized deployment.
 
----
 
+---
+### ✅ [Adaptive Traffic Signal Control Using Deep Reinforcement Learning](https://github.com/Sharma-Mayank15/IntelliTraffic-Adaptive-Traffic-Signal-Control-using-Deep-Reinforcement-Learning.git)
+🔹 **Python**, **Deep Q-Learning (DQN)**, **SUMO Simulator**, **Keras**, **TraCI API**  
+Developed a dynamic traffic signal system that optimizes signal timings based on real-time traffic data to reduce congestion and improve flow.  
+Implemented reinforcement learning to adapt signals, achieving better average waiting times compared to fixed-time controls.
+
+
+---
 ### ✅ Advanced Aquatic Alert System: An Edge Hardware Solution
 🔹 **Embedded Sensors**, **Microcontrollers**, **Data-Driven Prediction**  
 Designed a smart alert system for farmers to **monitor and regulate water levels** during crop cycles.  
