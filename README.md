@@ -14,7 +14,9 @@
 - 🌱 Learning **Advanced Spring Boot**, **Cloud Deployment**, and **System Design**
 - 💬 Ask me about `Java`, `Node.js`, `SQL`, `REST APIs`, or `FastAPI`
 - 📫 Reach me at **mayankaryan309@gmail.com**
-- 📄 [Check out my resume](sandbox:/mnt/data/Mayank%20Sharma_7528857335.pdf)
+- 📄 [View My Resume (PDF)](sandbox:/mnt/data/Mayank%20Sharma_7528857335.pdf)
+
+
 
 ---
 
