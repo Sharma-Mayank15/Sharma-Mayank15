@@ -98,7 +98,7 @@ This solution predicts optimal irrigation needs and generates **real-time aquati
 
 ## 📄 Here’s my resume:
 
-👉 *[Add your PDF resume link here]*
+👉 *[https://raw.githubusercontent.com/Sharma-Mayank15/Resume-link/main/Mayank_Sharma_resume.pdf]*
 
 ---
 
