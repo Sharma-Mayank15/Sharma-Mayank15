@@ -16,7 +16,7 @@
 ## 🔍 About Me
 
 🎓 I'm a Computer Science graduate @ Chandigarh University  
-💡 Backend Dev & API Specialist  
+💡 Backend Developer & AI Integration Enthusiast
 🚀 Building scalable systems, AI bots, and smart traffic brains  
 🧪 Researcher passionate about AI + IoT + Automation
 
