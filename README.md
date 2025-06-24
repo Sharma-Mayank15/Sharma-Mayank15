@@ -20,7 +20,7 @@
 🚀 Crafting scalable APIs, intelligent systems & real-time automation  
 🧠 Passionate about AI × IoT × Research × Problem-Solving  
 
->   "Turning ideas into logic, and logic into software."
+>    "Turning ideas into logic, and logic into software."
 
 ---
 
