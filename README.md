@@ -99,12 +99,6 @@
   <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoftoffice&logoColor=white" />
 </div>
 
----
-
-## 🐍 GitHub Snake Game
-
-![Snake animation](https://github.com/Sharma-Mayank15/Sharma-Mayank15/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
 
