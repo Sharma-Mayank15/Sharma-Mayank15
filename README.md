@@ -25,7 +25,6 @@
 
 ---
 
-
 ## 💻 Tech Stack
 
 <!-- Languages -->
@@ -100,65 +99,18 @@
   <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoftoffice&logoColor=white" />
 </div>
 
+---
+
+## 🐍 GitHub Snake Game
+
+![Snake animation](https://github.com/Sharma-Mayank15/Sharma-Mayank15/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🚀 Projects
+## 🧬 Live Contribution Tracker
 
-### 📦 [Order Management API](https://github.com/Oliver-Twist15/order-management-api)  
-**Tech:** Node.js, Express, MySQL, Docker  
-🛒 High-speed RESTful system for real-time inventory, orders, and scaling with Docker
-
----
-
-### 🤖 [GPT-Based AI Assistant](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003561651-11/unlocking-power-generative-pre-training-gpt-3-based-conversational-ai-framework-ishdeep-singla-mayank-sharma-shivam-dubey-aditya-ayush-tyagi-rahul-tiwari)  
-**Tech:** Python, GPT-3, LangChain, FastAPI  
-🧠 AI chatbot for tasks like scheduling, reminders, and smart conversations
-
----
-
-### 🛡️ [Secure Auth System](https://github.com/Oliver-Twist15/Backend-API-for-User-Authentication-and-Management)  
-**Tech:** FastAPI, PostgreSQL, JWT  
-🔐 Full-fledged user management system with token security & database auth
-
----
-
-### 🚦 [Adaptive Traffic Control (IntelliTraffic)](https://github.com/Sharma-Mayank15/IntelliTraffic-Adaptive-Traffic-Signal-Control-using-Deep-Reinforcement-Learning.git)  
-**Tech:** Python, Keras, SUMO, TraCI  
-🧠 AI agent controls city traffic using Deep Q-Learning for smarter flows
-
----
-
-### 🌱 Advanced Aquatic Alert System  
-**Tech:** Embedded + IoT  
-🌊 Automated irrigation controller to support Indian farmers with predictive alerting
-
----
-
-## 🎖️ Awards & Certs
-
-- 🥇 **NPTEL Gold** – Internet of Things, IIT Kharagpur  
-- 📜 **Infosys Springboard** – Web Dev & Frontend  
-- 🧠 **Coursera** – Java, DSA, Flask & System Design
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharma-Mayank15&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma-Mayank15&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 📬 Connect With Me
-
-📧 Email: mayankaryan309@gmail.com  
-💼 LinkedIn: [linkedin.com/in/mayank-sharma15](https://linkedin.com/in/mayank-sharma15)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharma-Mayank15&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 > 💡 *“Code that adapts. Systems that think. That’s my kind of engineering.”*
-
----
