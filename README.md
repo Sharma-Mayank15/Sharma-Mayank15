@@ -121,7 +121,7 @@
       <sub>2+ PRs Merged</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/YOLO-%F0%9F%A4%A3-orange?style=for-the-badge">
+    <img src="https://img.shields.io/badge/YOLO-orange?style=for-the-badge">
       <br />
       <b>YOLO</b>
       <br />
