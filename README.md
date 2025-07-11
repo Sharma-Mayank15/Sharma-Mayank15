@@ -132,6 +132,4 @@
 
 ---
 
-> 🏅 *Badges unlocked with passion, not permission.*
-
 > 💡 *“Code that adapts. Systems that think. That’s my kind of engineering.”*
