@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;API+Engineer;IoT+System+Designer;AI+Project+Architect;Computer+Science+Graduate" alt="Typing SVG" />
-</p>
+</p> 
 
 <p align="center">
   <a href="mailto:mayankaryan309@gmail.com"><img src="https://img.shields.io/badge/Email-Mayank-red?style=flat-square&logo=gmail&logoColor=white"></a>
