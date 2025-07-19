@@ -106,29 +106,6 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharma-Mayank15&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
----
-
-## 🎖 GitHub Badge Board
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88-blue?style=for-the-badge">
-      <br />
-      <b>Pull Shark</b>
-      <br />
-      <sub>2+ PRs Merged</sub>
-    </td>
-    <td align="center">
-    <img src="https://img.shields.io/badge/YOLO-orange?style=for-the-badge">
-      <br />
-      <b>YOLO</b>
-      <br />
-      <sub>Merged PR w/o review</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
