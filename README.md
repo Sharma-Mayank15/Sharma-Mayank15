@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Sharma-Mayank15"><img src="https://komarev.com/ghpvc/?username=Sharma-Mayank15&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" /></a>
-  <a href="https://github.com/Sharma-Mayank15?tab=repositories"><img src="https://img.shields.io/badge/Repos-📦-blue?style=for-the-badge" /></a>
+  <a href="https://github.com/Sharma-Mayank15?tab=repositories"><img src="https://img.shields.io/badge/Repos-29+-blue?style=for-the-badge" /></a>
   <a href="https://github.com/Sharma-Mayank15?tab=followers"><img src="https://img.shields.io/github/followers/Sharma-Mayank15?style=for-the-badge&color=green&label=Followers" /></a>
   <a href="https://github.com/Sharma-Mayank15?tab=stars"><img src="https://img.shields.io/github/stars/Sharma-Mayank15?style=for-the-badge&color=yellow&label=Stars" /></a>
 </p>
