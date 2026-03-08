@@ -9,25 +9,17 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   $ whoami                                                           ║
-║   → Mayank Sharma                                                    ║
-║                                                                      ║
-║   $ cat role.txt                                                     ║
-║   → Full Stack Developer | AI Engineer | Backend Architect           ║
-║                                                                      ║
-║   $ cat location.txt                                                 ║
-║   → Chandigarh, India 🇮🇳                                             ║
-║                                                                      ║
-║   $ cat current_status.txt                                           ║
-║   → Associate Intern @ Ditstek Innovations                           ║
-║                                                                      ║
-║   $ cat education.txt                                                ║
-║   → B.E. Computer Science — Chandigarh University (2021-2025)        ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+```js
+> cat profile.json
+{
+    "name": "Mayank Sharma",
+    "role": "Full Stack Developer & AI Engineer",
+    "location": "Chandigarh, India 🇮🇳",
+    "company": "Ditstek Innovations, Mohali",
+    "education": "B.E. Computer Science — Chandigarh University (2021-2025)",
+    "focus": "Building Scalable Full-Stack & AI Systems",
+    "goal": "Turning ideas into production-ready solutions"
+}
 ```
 
 <br/>
